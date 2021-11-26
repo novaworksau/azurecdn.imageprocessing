@@ -1,0 +1,1 @@
+# azurecdn.imageprocessing
